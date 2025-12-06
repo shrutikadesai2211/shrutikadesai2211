@@ -1,15 +1,15 @@
-#Hi, I'm Shrutika Desai 👋
+# **Hi, I'm Shrutika Desai** 👋
 <br>
 🧑‍💻 Student | Interested in Gsoc | 
 Open Source 
 <br>
-## About Me
+## **About Me**
 <br>
 🎓 Studying Computer science.
 <br>
--passionate about Algorithms.
+ - passionate about Algorithms.
 <br>
-## Skills 
+## **Skills**
 <br>
 👩‍🎓 C++, Python, Java
 <br>
