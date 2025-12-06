@@ -2,17 +2,16 @@
 <br>
 🧑‍💻 Student | Interested in Gsoc | 
 Open Source 
-<br>
+
 ## **About Me**
-<br>
 🎓 Studying Computer science.
 <br>
- - passionate about Algorithms.
-<br>
+  Passionate about Algorithms.
+
 ## **Skills**
+**Language** : C++, Python, Java
 <br>
-👩‍🎓 C++, Python, Java
-<br>
+**Tools**: Git, GitHub 
 <!--
 **shrutikadesai2211/shrutikadesai2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
