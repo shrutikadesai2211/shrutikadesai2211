@@ -8,7 +8,7 @@ Open Source
 <br>
   Passionate about Algorithms.
 
-## **Skills**
+## **💻Tech Stack**
 **Language** : C++, Python, Java
 <br>
 **Tools**: Git, GitHub 
