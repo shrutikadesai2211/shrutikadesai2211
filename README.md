@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🧑‍💻 Shrutika Desai👋
 
 <!--
 **shrutikadesai2211/shrutikadesai2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
