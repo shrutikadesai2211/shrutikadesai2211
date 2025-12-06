@@ -1,4 +1,4 @@
-## Hi, I'm Shrutika Desai 👋
+#Hi, I'm Shrutika Desai 👋
 <br>
 🧑‍💻 Student | Interested in Gsoc | 
 Open Source 
