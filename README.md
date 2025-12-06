@@ -1,4 +1,6 @@
-## 🧑‍💻 Shrutika Desai👋
+## Hi,I'm Shrutika Desai👋
+<br>
+🧑‍💻 A Computer Science student passionate about coding, open source and learning.
 
 <!--
 **shrutikadesai2211/shrutikadesai2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
