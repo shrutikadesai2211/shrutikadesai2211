@@ -1,7 +1,6 @@
 # **Hi, I'm Shrutika Desai** 👋
 <br>
-🧑‍💻 Student | Interested in Gsoc | 
-Open Source 
+🧑‍💻 Student | Interested in contributing to open source projects and Gsoc.
 
 ## **About Me**
 🎓 Studying Computer science.
