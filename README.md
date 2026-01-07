@@ -1,6 +1,6 @@
 # **Hi, I'm Shrutika Desai** 👋
 <br>
-🧑‍💻 Student | Interested in contributing to open source projects and Gsoc.
+🧑‍💻 Student | Interested in contributing to open source projects.
 
 ## **About Me**
 🎓 Studying Computer science.
@@ -8,9 +8,9 @@
   Passionate about Algorithms.
 
 ## **💻Tech Stack**
-**Language** : C++, Python, Java
+**Language** : C, C++, Python, Java, HTML, CSS, Javascript.
 <br>
-**Tools**: Git, GitHub 
+**Tools**: Git, GitHub, Docker.
 <!--
 **shrutikadesai2211/shrutikadesai2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
